@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cameron-myers
+- 👋 Hi, I’m Cameron Myers
 - 👀 I’m interested in Gameplay Programming
 - 🌱 I’m currently attending DigiPen Institute of Technology
 
