@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Cameron Myers
-- 👀 I’m interested in Gameplay Programming
+- 👀 DevOps/Tools and Gameplay Systems
 - 🌱 I’m currently attending DigiPen Institute of Technology
 
 <!---
